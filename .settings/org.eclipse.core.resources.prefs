@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//local/cert_util.py=utf-8
+encoding//local/config.py=utf-8
+encoding//local/connect_manager.py=utf-8
+encoding//local/gae_handler.py=utf-8
+encoding//local/pac_server.py=utf-8
+encoding//local/proxy.py=utf-8
+encoding//local/proxy_handler.py=utf-8
+encoding//server/gae/gae.py=utf-8
+encoding//server/gae/legacy.py=utf-8
+encoding//server/gae/wsgi.py=utf-8
+encoding/<project>=UTF-8
+encoding/start.py=utf-8
